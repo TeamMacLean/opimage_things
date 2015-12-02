@@ -1,0 +1,13 @@
+*.pyc
+
+*.egg-info
+
+*.DS_Store
+
+venv
+
+data.csv
+
+.idea
+
+build
