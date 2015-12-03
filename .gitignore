@@ -11,3 +11,7 @@ data.csv
 .idea
 
 build
+
+.AppleDouble/*
+opimage_things/.AppleDouble/*
+
