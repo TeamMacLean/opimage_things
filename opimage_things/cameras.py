@@ -9,6 +9,6 @@ def take_picture(fname='pic.jpg', hflip=False, vflip=True, width=600, height=480
         cam.resolution = (width,height)
         cam.shutter_speed = shutter_speed
         if fmt == 'rgb':
-	    cam.capture(fname, 'rgb')
+            cam.capture(fname, 'rgb')
         else:
-    	    cam.capture(fname, fmt)
+            cam.capture(fname, fmt)
